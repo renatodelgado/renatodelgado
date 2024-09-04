@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renato</h1>
+<h1 align="center">Hi 👋, I'm Renato Delgado</h1>
 <h3 align="center">A Brazilian Systems Development & Analysis student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatodelgado&label=Profile%20views&color=0e75b6&style=flat" alt="renatodelgado" /> </p>
