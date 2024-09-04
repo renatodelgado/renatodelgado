@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/renatodelgado/](https://github.com/renatodelgado/)
 
-- 📫 How to reach me **rena7o.delgado@gmail.com**
+- 📫 How to reach me: **rena7o.delgado@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
